@@ -9,14 +9,6 @@ body {
 #header {
 	width: 100%
 }
-#sub_header {
-	text-align: right;
-	font-weight: bold;
-	font-size: 20px;
-	color: #FFFFFF;
-	padding-right: 20px;
-	padding-bottom: 20px;
-}
 #main_content {
 	margin: 0 auto;
 	width: 100%;
